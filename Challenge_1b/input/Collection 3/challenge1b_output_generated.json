@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-27T23:44:25.346959"
+  },
+  "extracted_sections": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lay a slice of turkey flat and spread with hummus.",
+      "importance_rank": 1,
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 6,
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 7,
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 8,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 10,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "\u2022 Place a slice of cheese and a few spinach leaves on top. \u2022 Roll up tightly and repeat with remaining ingredients. This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "\u2022 This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements.",
+      "page_number": 5
+    }
+  ],
+  "refined_text": "From Lunch Ideas.pdf - Lay a slice of turkey flat and spread with hummus.:\n\u2022 Place a slice of cheese and a few spinach leaves on top. \u2022 Roll up tightly and repeat with remaining ingredients....\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022...\n\nFrom Breakfast Ideas.pdf - Ingredients::\n\u2022... This recipe is perfect for vegetarian menu planning. The ingredients create excellent buffet-style dinner options for corporate catering events. This menu item works well for large gatherings and addresses dietary requirements. Perfect for prepare requirements. Perfect for gathering, requirements. Perfect for including requirements. Perfect for gluten-free requirements. Perfect for items. requirements."
+}

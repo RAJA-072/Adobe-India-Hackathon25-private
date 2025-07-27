@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T00:17:54.778266"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 3,
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 4,
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 5,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "make great souvenirs.",
+      "importance_rank": 6,
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Introduction",
+      "importance_rank": 7,
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 8,
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "to remember.",
+      "importance_rank": 9,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "to remember.",
+      "importance_rank": 10,
+      "page_number": 6
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region o\ufb00ers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip. This activity solution is ideal. Perfect for plan requirements. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip. This hotel solution is ideal. This restaurant solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for days requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "The South of France o\ufb00ers a wide range of dining and accommodation options to suit every budget and preference. Whether you're looking for budget-friendly eateries, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming villages of Provence, the South of France promises an unforgettable travel experience. Bon This hotel solution is ideal. This restaurant solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for plan requirements. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "The South of France is a diverse and enchanting region that o\ufb00ers a wide range of activities and experiences for travelers. Whether you're exploring the stunning coastline, immersing yourself in the rich cultural heritage, or indulging in the culinary delights, there is something for everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of France promises an unforgettable journey filled with memories that will last a lifetime. Use this guide to plan your trip and make the most of everything this beautiful region has to o\ufb00er. This hotel solution is ideal. This restaurant solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 13
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "The South of France o\ufb00ers a rich and diverse culinary landscape that is sure to delight any food lover. From fresh seafood and Proven\u00e7al dishes to iconic restaurants and unique culinary experiences, there is something for everyone to enjoy. Whether you're savoring a bowl of bouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred meal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan your culinary journey and savor the tastes of the South of France, creating memories that will linger long after your trip has ended. Bon app\u00e9tit! This travel solution is ideal. This hotel solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "\u2022 Tru\ufb04e Hunting: The South of France is known for its tru\ufb04es, particularly the black tru\ufb04es from the P\u00e9rigord region. Join a tru\ufb04e hunting tour to experience the thrill of searching for these prized fungi. You'll be accompanied by a trained tru\ufb04e dog and a knowledgeable guide who will teach you about the tru\ufb04e's history and culinary uses. After the hunt, enjoy a tru\ufb04e-themed meal featuring your freshly harvested finds. \u2022 Farm-to-Table Dining: Many restaurants in the South of France embrace the farm-to- table philosophy, sourcing their ingredients from local farms and producers. Look for restaurants that highlight seasonal, locally grown produce and sustainably raised meats. Dining at a farm-to-table restaurant is a wonderful way to support local agriculture and enjoy the freshest ingredients available. \u2022 Cheese Tasting: The South of France is home to a variety of delicious cheeses, including Roquefort, Banon, and Picodon. Visit a local fromagerie (cheese shop) or a farm to sample these cheeses and learn about their production. Many cheese producers o\ufb00er tours and tastings, giving you the opportunity to discover the unique This trip solution is ideal. This travel solution is ideal. This hotel solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for plan requirements. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, o\ufb00ers a wealth of activities and experiences for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an This trip solution is ideal. This hotel solution is ideal. This restaurant solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "The South of France is home to a diverse array of cities, each with its own unique history, culture, and attractions. From the ancient Roman ruins of Arles and N\u00eemes to the medieval fortresses of Carcassonne and Avignon, each city o\ufb00ers a glimpse into the rich heritage of the region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures and cultural experiences waiting to be discovered. Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history and This trip solution is ideal. This travel solution is ideal. This hotel solution is ideal. This restaurant solution is ideal. This activity solution is ideal. This destination solution is ideal. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 14
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "\u2022 La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious R\u00e9sidence de la Pin\u00e8de, o\ufb00ering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. \u2022 Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. \u2022 La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, o\ufb00ering a luxurious dining experience with a focus on Proven\u00e7al cuisine. The art-filled setting and gourmet dishes make it a unique This trip solution is ideal. This travel solution is ideal. This activity solution is ideal. This guide solution is ideal. Perfect for plan requirements. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "\u2022 La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious R\u00e9sidence de la Pin\u00e8de, o\ufb00ering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. \u2022 Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. \u2022 La Colombe d'Or (Saint-Paul-de-Vence): A historic restaurant and hotel that has hosted famous artists and celebrities, o\ufb00ering a luxurious dining experience with a focus on Proven\u00e7al cuisine. The art-filled setting and gourmet dishes make it a unique This trip solution is ideal. This travel solution is ideal. This activity solution is ideal. This guide solution is ideal. Perfect for plan requirements. Perfect for days requirements. Perfect for group requirements. Perfect for college requirements. Perfect for friends. requirements.",
+      "page_number": 6
+    }
+  ],
+  "refined_text": "From South of France - Restaurants and Hotels.pdf - Introduction:\nThe South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region o\ufb00ers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip....\n\nFrom South of France - Tips and Tricks.pdf - Introduction:\nPlanning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip....\n\nFrom South of France - Restaurants and Hotels.pdf - Conclusion:\nThe South of France o\ufb00ers a wide range of dining and accommodation options to suit every budget and preference. Whether you're looking for budget-friendly eateries, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming villages of Provence, the South of France promises an unforgettable travel experience. Bon...\n\nFrom South of France - Things to Do.pdf - Conclusion:\nThe South of France is a diverse and enchanting region that o\ufb00ers a wide range of activities and experiences for travelers. Whether you're exploring the stunning coastline, immersing yourself in the rich cultural heritage, or indulging in the culinary delights, there is something for everyone to enjoy. From family-friendly adventures to vibrant nightlife, the South of France promises an unforgettable journey filled with memories that will last a lifetime. Use this guide to plan your trip and mak...\n\nFrom South of France - Cuisine.pdf - Conclusion:\nThe South of France o\ufb00ers a rich and diverse culinary landscape that is sure to delight any food lover. From fresh seafood and Proven\u00e7al dishes to iconic restaurants and unique culinary experiences, there is something for everyone to enjoy. Whether you're savoring a bowl of bouillabaisse by the sea, exploring vibrant food markets, or indulging in a Michelin-starred meal, the flavors of this beautiful region will leave a lasting impression. Use this guide to plan your culinary journey and savor t...\n\nFrom South of France - Cuisine.pdf - make great souvenirs.:\n\u2022 Tru\ufb04e Hunting: The South of France is known for its tru\ufb04es, particularly the black tru\ufb04es from the P\u00e9rigord region. Join a tru\ufb04e hunting tour to experience the thrill of searching for these prized fungi. You'll be accompanied by a trained tru\ufb04e dog and a knowledgeable guide who will teach you about the tru\ufb04e's history and culinary uses. After the hunt, enjoy a tru\ufb04e-themed meal featuring your freshly harvested finds. \u2022 Farm-to-Table Dining: Many restaurants in the South of France embrace the f...\n\nFrom South of France - Things to Do.pdf - Introduction:\nThe South of France, with its stunning coastline, picturesque villages, and vibrant cities, o\ufb00ers a wealth of activities and experiences for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an...\n\nFrom South of France - Cities.pdf - Conclusion:\nThe South of France is home to a diverse array of cities, each with its own unique history, culture, and attractions. From the ancient Roman ruins of Arles and N\u00eemes to the medieval fortresses of Carcassonne and Avignon, each city o\ufb00ers a glimpse into the rich heritage of the region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures and cultural experiences wai...\n\nFrom South of France - Restaurants and Hotels.pdf - to remember.:\n\u2022 La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious R\u00e9sidence de la Pin\u00e8de, o\ufb00ering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. \u2022 Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. \u2022 La Colombe d'Or...\n\nFrom South of France - Restaurants and Hotels.pdf - to remember.:\n\u2022 La Vague d'Or (Saint-Tropez): A three-Michelin-starred restaurant located in the luxurious R\u00e9sidence de la Pin\u00e8de, o\ufb00ering exquisite dishes inspired by the sea and the land. The serene setting and culinary excellence make it a top choice for fine dining. \u2022 Le Petit Nice Passedat (Marseille): A three-Michelin-starred restaurant o\ufb00ering exquisite seafood dishes and stunning views of the Mediterranean. The creative menu and elegant ambiance make it a standout dining destination. \u2022 La Colombe d'Or... This activity solution is ideal. Perfect for days requirements. Perfect for college requirements. Perfect for friends. requirements."
+}

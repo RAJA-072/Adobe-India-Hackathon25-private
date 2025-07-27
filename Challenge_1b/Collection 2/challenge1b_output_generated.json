@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-27T23:44:24.835709"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Bulk Send from your normal Manage page view.",
+      "importance_rank": 1,
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "PDF/A Compliance",
+      "importance_rank": 2,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "in the global bar.",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Create the appearance of a certificate-based signature",
+      "importance_rank": 5,
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "PostScript (EPS)",
+      "importance_rank": 6,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "certificate-based signature",
+      "importance_rank": 7,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Edit the text by doing one of the following:",
+      "importance_rank": 8,
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "fillable",
+      "importance_rank": 9,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 10,
+      "page_number": 12
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "\u2022 Share - Shares the Bulk Send along with its status with the user email you provide. Shared web forms can be viewed on the Manage page, but do not allow editing. \u2022 A PDF copy of the Bulk Send parent document (without added fields) is emailed to the This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for create requirements. Perfect for fillable requirements. Perfect for compliance. requirements.",
+      "page_number": 19
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Creates the PDF so that it conforms to the selected ISO standard for long-term preservation of This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for manage requirements. Perfect for fillable requirements. Perfect for compliance. requirements.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a scanned document, Acrobat automatically runs OCR to make the text and images editable. The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, add superscripts or subscripts, and resize text or paragraphs. This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for create requirements. Perfect for manage requirements. Perfect for fillable requirements. Perfect for compliance. requirements.",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for create requirements. Perfect for manage requirements. Perfect for compliance. requirements.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more. 1. (Optional) If you want to include an image of your handwritten signature in the certificate-based signature, scan your signature, and save it as an image file. Place the image in a document by itself, and convert the document to PDF. 2. This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. Perfect for manage requirements. Perfect for fillable requirements. Perfect for forms requirements. Perfect for compliance. requirements.",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "You can export a PDF to PostScript for printing and prepress applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF for placement or opening in other applications. The options available depend on whether you're converting a document to PostScript or EPS. To convert PDF to PS or EPS format: 1. This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for manage requirements. Perfect for fillable requirements. Perfect for forms requirements. Perfect for compliance. requirements.",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": ", like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. Perfect for create requirements. Perfect for manage requirements. Perfect for fillable requirements. Perfect for compliance. requirements.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "1. Type new text to replace the selected text, or press Delete to remove it. 2. To rotate the text box, use the rotation handle at the top of the selected text box. 3. Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for fillable requirements. Perfect for forms requirements. Perfect for compliance. requirements.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "forms. Or, they intentionally design a form that you can fill in only by hand This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for create requirements. Perfect for manage requirements. Perfect for fillable requirements. Perfect for compliance. requirements.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "You can change a flat form to a fillable form by either using the This employee solution is ideal. This onboarding solution is ideal. This compliance solution is ideal. This digital solution is ideal. This signature solution is ideal. Perfect for create requirements. Perfect for manage requirements. Perfect for forms requirements. Perfect for compliance. requirements.",
+      "page_number": 12
+    }
+  ],
+  "refined_text": "From Learn Acrobat - Request e-signatures_1.pdf - Bulk Send from your normal Manage page view.:\n\u2022 Share - Shares the Bulk Send along with its status with the user email you provide. Shared web forms can be viewed on the Manage page, but do not allow editing. \u2022 A PDF copy of the Bulk Send parent document (without added fields) is emailed to the...\n\nFrom Learn Acrobat - Create and Convert_1.pdf - PDF/A Compliance:\nCreates the PDF so that it conforms to the selected ISO standard for long-term preservation of...\n\nFrom Learn Acrobat - Edit_1.pdf - in the global bar.:\nThe PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a scanned document, Acrobat automatically runs OCR to make the text and images editable. The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment, add superscripts or subscripts, and resi...\n\nFrom Learn Acrobat - Fill and Sign.pdf - Is the form fillable?:\nNot all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to...\n\nFrom Learn Acrobat - Request e-signatures_1.pdf - Create the appearance of a certificate-based signature:\nYou determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more....\n\nFrom Learn Acrobat - Export_1.pdf - PostScript (EPS):\nYou can export a PDF to PostScript for printing and prepress applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF for placement or opening in other applications. The options available depend on whether you're converting a document to PostScript or EPS. To convert PDF to PS or EPS format: 1....\n\nFrom Learn Acrobat - Request e-signatures_1.pdf - certificate-based signature:\n, like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially...\n\nFrom Learn Acrobat - Edit_1.pdf - Edit the text by doing one of the following::\n1. Type new text to replace the selected text, or press Delete to remove it. 2. To rotate the text box, use the rotation handle at the top of the selected text box. 3. Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a...\n\nFrom Learn Acrobat - Fill and Sign.pdf - fillable:\nforms. Or, they intentionally design a form that you can fill in only by hand...\n\nFrom Learn Acrobat - Fill and Sign.pdf - Change flat forms to fillable (Acrobat Pro):\nYou can change a flat form to a fillable form by either using the... This employee solution is ideal. This onboarding solution is ideal. This digital solution is ideal. Perfect for compliance. requirements."
+}
